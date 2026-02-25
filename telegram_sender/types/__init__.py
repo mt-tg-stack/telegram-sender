@@ -1,7 +1,4 @@
-"""Domain models and media types."""
-
-from telegram_sender.client.sender.request import MessageRequest
-from telegram_sender.client.sender.response import MessageResponse
+"""Media types."""
 from telegram_sender.types.media import (
     Animation,
     Audio,
@@ -21,8 +18,6 @@ __all__ = [
     "Document",
     "Media",
     "MediaGroup",
-    "MessageRequest",
-    "MessageResponse",
     "Photo",
     "Sticker",
     "Video",
