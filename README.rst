@@ -16,7 +16,7 @@ profile randomization.
    * - **Telegram client**
      - pyrofork (Pyrogram fork)
    * - **Device profiles**
-     - `tg-devices <https://github.com/GrehBan/tg-devices>`_
+     - `tg-devices <https://github.com/mt-tg-stack/tg-devices>`_
 
 Features
 --------
@@ -37,7 +37,7 @@ Installation
 
 .. code-block:: bash
 
-   git clone https://github.com/GrehBan/telegram-sender.git
+   git clone https://github.com/mt-tg-stack/telegram-sender.git
    cd telegram-sender
    uv sync
 

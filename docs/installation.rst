@@ -15,7 +15,7 @@ The project uses `uv <https://docs.astral.sh/uv/>`_ as its package manager.
 
 .. code-block:: bash
 
-   git clone https://github.com/GrehBan/telegram-sender.git
+   git clone https://github.com/mt-tg-stack/telegram-sender.git
    cd telegram-sender
    uv sync
 

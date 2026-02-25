@@ -103,4 +103,4 @@ profile = "ruff"
 line_length = 79
 
 [tool.uv.sources]
-tg-devices = { git = "https://github.com/GrehBan/tg-devices.git" }
+tg-devices = { git = "https://github.com/mt-tg-stack/tg-devices.git" }

@@ -4,7 +4,7 @@ telegram-sender
 A strategy-driven Telegram message sending library built on
 `pyrofork <https://github.com/Mayuri-Chan/pyrofork>`_ with automatic device
 profile randomization via
-`tg-devices <https://github.com/GrehBan/tg-devices>`_.
+`tg-devices <https://github.com/mt-tg-stack/tg-devices>`_.
 
 Key features:
 
